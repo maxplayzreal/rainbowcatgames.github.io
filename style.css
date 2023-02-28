@@ -68,8 +68,8 @@ transition: 0.5s;
 .content p{
     margin: 40px auto;
     font-weight: 100;
-    font-size: 40px;
-    line-height: 25px;
+    font-size: 32px;
+    line-height: 35px;
 }
 button{
     width: 300px;
