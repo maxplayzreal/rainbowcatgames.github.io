@@ -87,15 +87,19 @@ transition: 0.5s;
 }
 
 .content h1{
-    font-size: 70px;
-    margin-top: 80px;
+    font-size: 35px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
 }
 
 .content p{
     margin: 40px auto;
     font-weight: 100;
-    font-size: 32px;
+    font-size: 25px;
     line-height: 35px;
+    display: flex;
+    justify-content: center;
 }
 button{
     width: 300px;
@@ -140,4 +144,9 @@ button:hover{
 
 #container img{
     margin-right: 30px;
+}
+
+#gameButton button{
+    width: 100px;
+    
 }
